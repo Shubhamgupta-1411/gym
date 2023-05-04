@@ -1,5 +1,4 @@
 C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.vbproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.Equipment_inventory.resources
 C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.home.resources
 C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.login.resources
 C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.members.resources
@@ -22,3 +21,19 @@ C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\refint\Gym.dll
 C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.pdb
 C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\ref\Gym.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\source\repos\Gym\Gym\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.vbproj.CopyComplete
+C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.report.resources
+C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.Reportf.resources
+C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.MakePayment.resources
+C:\Users\Admin\source\repos\Gym\Gym\obj\Debug\net7.0-windows\Gym.PaymentForm.resources
